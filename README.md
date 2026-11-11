@@ -375,8 +375,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 👨‍💻 Author
 
-**Hrutav Modha**
-(_modhahrutav@gmail.com_)
+**Kushagra Singh**
+(_singhkushagra.work@gmail.com_)
 
 ## 🤝 Contributions
 
